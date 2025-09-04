@@ -1,0 +1,27 @@
+namespace Sample;
+
+table Born {
+  date:string;
+  city:string;
+}
+
+table Car {
+  model_name:string;
+  factory_year:int;
+  license_plate:string;
+}
+
+table Home {
+  address:string;
+  ownership:string;
+}
+
+table PersonFirst {
+  name:string;
+  born:Born;
+  car:Car;
+  home:Home;
+  job:string;
+}
+
+root_type PersonFirst;

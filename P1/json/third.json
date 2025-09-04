@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Alice Johnson",
+    "born": { "date": "1990-05-12", "city": "Berlin", "hospital_name": "Charité", "father_name": "Robert Johnson" },
+    "cars": [
+      { "model_name": "BMW X5", "factory_year": 2015, "license_plate": "AB-123-CD" },
+      { "model_name": "Tesla Model 3", "factory_year": 2020, "license_plate": "EV-456-DE" }
+    ],
+    "homes": [
+      { "address": "Alexanderplatz 10, Berlin", "ownership": "rented" },
+      { "address": "Unter den Linden 5, Berlin", "ownership": "owned" }
+    ]
+  },
+  {
+    "name": "Bob Smith",
+    "born": { "date": "1985-03-20", "city": "London", "hospital_name": "St. Mary’s", "father_name": "John Smith" },
+    "cars": [
+      { "model_name": "Audi A4", "factory_year": 2010, "license_plate": "UK-4455" },
+      { "model_name": "Land Rover Discovery", "factory_year": 2019, "license_plate": "UK-9988" }
+    ],
+    "homes": [
+      { "address": "10 Downing St, London", "ownership": "owned" },
+      { "address": "Baker St, London", "ownership": "rented" }
+    ]
+  },
+  {
+    "name": "Charlie Brown",
+    "born": { "date": "1992-11-15", "city": "New York", "hospital_name": "Mount Sinai", "father_name": "Henry Brown" },
+    "cars": [
+      { "model_name": "Toyota Corolla", "factory_year": 2018, "license_plate": "NY-7788" },
+      { "model_name": "Ford Mustang", "factory_year": 2021, "license_plate": "NY-1122" }
+    ],
+    "homes": [
+      { "address": "5th Avenue, NYC", "ownership": "rented" },
+      { "address": "Wall St, NYC", "ownership": "owned" }
+    ]
+  },
+  {
+    "name": "Diana Miller",
+    "born": { "date": "1995-06-01", "city": "Paris", "hospital_name": "Hôpital Necker", "father_name": "Jean Miller" },
+    "cars": [
+      { "model_name": "Renault Clio", "factory_year": 2016, "license_plate": "FR-2233" },
+      { "model_name": "Peugeot 208", "factory_year": 2020, "license_plate": "FR-8899" }
+    ],
+    "homes": [
+      { "address": "Champs-Élysées, Paris", "ownership": "owned" },
+      { "address": "Rue de Rivoli, Paris", "ownership": "rented" }
+    ]
+  },
+  {
+    "name": "Ethan Clark",
+    "born": { "date": "1988-07-09", "city": "Toronto", "hospital_name": "Toronto General", "father_name": "David Clark" },
+    "cars": [
+      { "model_name": "Ford Focus", "factory_year": 2012, "license_plate": "CA-9898" },
+      { "model_name": "Dodge Ram", "factory_year": 2018, "license_plate": "CA-4455" }
+    ],
+    "homes": [
+      { "address": "Queen St, Toronto", "ownership": "rented" },
+      { "address": "King St, Toronto", "ownership": "owned" }
+    ]
+  },
+  {
+    "name": "Fiona Adams",
+    "born": { "date": "1993-12-25", "city": "Rome", "hospital_name": "Policlinico Umberto I", "father_name": "Luca Adams" },
+    "cars": [
+      { "model_name": "Fiat 500", "factory_year": 2019, "license_plate": "IT-5050" },
+      { "model_name": "Lancia Ypsilon", "factory_year": 2016, "license_plate": "IT-7788" }
+    ],
+    "homes": [
+      { "address": "Via del Corso, Rome", "ownership": "owned" },
+      { "address": "Piazza Venezia, Rome", "ownership": "rented" }
+    ]
+  },
+  {
+    "name": "George White",
+    "born": { "date": "1980-10-30", "city": "Sydney", "hospital_name": "Royal Prince Alfred", "father_name": "Peter White" },
+    "cars": [
+      { "model_name": "Holden Commodore", "factory_year": 2011, "license_plate": "AU-1122" },
+      { "model_name": "Toyota Hilux", "factory_year": 2017, "license_plate": "AU-6677" }
+    ],
+    "homes": [
+      { "address": "George St, Sydney", "ownership": "rented" },
+      { "address": "Bondi Beach Rd, Sydney", "ownership": "owned" }
+    ]
+  },
+  {
+    "name": "Hannah Lee",
+    "born": { "date": "1997-02-14", "city": "Seoul", "hospital_name": "Seoul National Hospital", "father_name": "Minho Lee" },
+    "cars": [
+      { "model_name": "Hyundai Sonata", "factory_year": 2020, "license_plate": "KR-5566" },
+      { "model_name": "Kia Sorento", "factory_year": 2019, "license_plate": "KR-4455" }
+    ],
+    "homes": [
+      { "address": "Gangnam, Seoul", "ownership": "owned" },
+      { "address": "Hongdae, Seoul", "ownership": "rented" }
+    ]
+  },
+  {
+    "name": "Ian Walker",
+    "born": { "date": "1991-09-10", "city": "Chicago", "hospital_name": "Cook County Hospital", "father_name": "George Walker" },
+    "cars": [
+      { "model_name": "Chevrolet Malibu", "factory_year": 2017, "license_plate": "US-3344" },
+      { "model_name": "Ford Explorer", "factory_year": 2021, "license_plate": "US-7788" }
+    ],
+    "homes": [
+      { "address": "Michigan Ave, Chicago", "ownership": "owned" },
+      { "address": "Lake Shore Dr, Chicago", "ownership": "rented" }
+    ]
+  },
+  {
+    "name": "Julia Brown",
+    "born": { "date": "1986-04-18", "city": "Madrid", "hospital_name": "Hospital La Paz", "father_name": "Carlos Brown" },
+    "cars": [
+      { "model_name": "Seat Leon", "factory_year": 2014, "license_plate": "ES-6677" },
+      { "model_name": "Volkswagen Golf", "factory_year": 2019, "license_plate": "ES-9988" }
+    ],
+    "homes": [
+      { "address": "Gran Via, Madrid", "ownership": "rented" },
+      { "address": "Plaza Mayor, Madrid", "ownership": "owned" }
+    ]
+  }
+]

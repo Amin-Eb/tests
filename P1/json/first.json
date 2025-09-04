@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Alice Johnson",
+    "born": { "date": "1990-05-12", "city": "Berlin" },
+    "car": { "model_name": "BMW X5", "factory_year": 2015, "license_plate": "AB-123-CD" },
+    "home": { "address": "Alexanderplatz 10, Berlin", "ownership": "rented" },
+    "job": "Software Engineer"
+  },
+  {
+    "name": "Bob Smith",
+    "born": { "date": "1985-03-20", "city": "London" },
+    "car": { "model_name": "Audi A4", "factory_year": 2010, "license_plate": "UK-4455" },
+    "home": { "address": "10 Downing St, London", "ownership": "owned" },
+    "job": "Teacher"
+  },
+  {
+    "name": "Charlie Brown",
+    "born": { "date": "1992-11-15", "city": "New York" },
+    "car": { "model_name": "Toyota Corolla", "factory_year": 2018, "license_plate": "NY-7788" },
+    "home": { "address": "5th Avenue, NYC", "ownership": "rented" },
+    "job": "Doctor"
+  },
+  {
+    "name": "Diana Miller",
+    "born": { "date": "1995-06-01", "city": "Paris" },
+    "car": { "model_name": "Renault Clio", "factory_year": 2016, "license_plate": "FR-2233" },
+    "home": { "address": "Champs-Élysées, Paris", "ownership": "owned" },
+    "job": "Nurse"
+  },
+  {
+    "name": "Ethan Clark",
+    "born": { "date": "1988-07-09", "city": "Toronto" },
+    "car": { "model_name": "Ford Focus", "factory_year": 2012, "license_plate": "CA-9898" },
+    "home": { "address": "Queen St, Toronto", "ownership": "rented" },
+    "job": "Engineer"
+  },
+  {
+    "name": "Fiona Adams",
+    "born": { "date": "1993-12-25", "city": "Rome" },
+    "car": { "model_name": "Fiat 500", "factory_year": 2019, "license_plate": "IT-5050" },
+    "home": { "address": "Via del Corso, Rome", "ownership": "owned" },
+    "job": "Designer"
+  },
+  {
+    "name": "George White",
+    "born": { "date": "1980-10-30", "city": "Sydney" },
+    "car": { "model_name": "Holden Commodore", "factory_year": 2011, "license_plate": "AU-1122" },
+    "home": { "address": "George St, Sydney", "ownership": "rented" },
+    "job": "Chef"
+  },
+  {
+    "name": "Hannah Lee",
+    "born": { "date": "1997-02-14", "city": "Seoul" },
+    "car": { "model_name": "Hyundai Sonata", "factory_year": 2020, "license_plate": "KR-5566" },
+    "home": { "address": "Gangnam, Seoul", "ownership": "owned" },
+    "job": "Student"
+  },
+  {
+    "name": "Ian Walker",
+    "born": { "date": "1991-09-10", "city": "Chicago" },
+    "car": { "model_name": "Chevrolet Malibu", "factory_year": 2017, "license_plate": "US-3344" },
+    "home": { "address": "Michigan Ave, Chicago", "ownership": "owned" },
+    "job": "Lawyer"
+  },
+  {
+    "name": "Julia Brown",
+    "born": { "date": "1986-04-18", "city": "Madrid" },
+    "car": { "model_name": "Seat Leon", "factory_year": 2014, "license_plate": "ES-6677" },
+    "home": { "address": "Gran Via, Madrid", "ownership": "rented" },
+    "job": "Artist"
+  }
+]
