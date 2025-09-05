@@ -66,3 +66,9 @@
 | `third_output.bin`  | 3.5 KB |
 
 These sizes can be used for further comparison with JSON or other serialization methods.
+
+## Limits
+
+we want to serialize  data of 10 sapmle people in one binary file, so if we want to use flatbuffer it keeps all people in one vector and serializes that vector.
+so if data size will be bigger, we have two choices, increase number of binary output files -> Disk limits, serialize all data in one file -> Ram limits.
+applying some specific regex between each two serialized data in one binary file may help!
