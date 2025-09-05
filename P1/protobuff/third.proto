@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+package sample;
+
+message Born3 {
+  string date = 1;
+  string city = 2;
+  string hospital_name = 3;
+  string father_name = 4;
+}
+
+message Car3 {
+  string model_name = 1;
+  int32 factory_year = 2;
+  string license_plate = 3;
+}
+
+message Home3 {
+  string address = 1;
+  string ownership = 2;
+}
+
+message PersonThird {
+  string name = 1;
+  Born3 born = 2;
+  repeated Car3 cars = 3;
+  repeated Home3 homes = 4;
+}
+
+message PeopleThird {
+  repeated PersonThird people = 1;
+}
